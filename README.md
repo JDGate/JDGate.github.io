@@ -1,6 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Jameson Gatewood's Portfolio Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Thank you to Minimal Mistakes for the foundation of this website.
 
 Contains basic configuration to get you a site with:
 
@@ -13,10 +13,6 @@ Contains basic configuration to get you a site with:
 - Sample about page.
 - Sample 404 page.
 - Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
 
 ## Troubleshooting
 
