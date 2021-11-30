@@ -7,4 +7,4 @@ tags:
   - wood-project
 ---
 
-![Version 1](/assets/images/version1.jpeg)
+![Version 1](/_posts/assets/images/version1.jpeg)
