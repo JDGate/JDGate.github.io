@@ -9,7 +9,7 @@ tags:
 
 The building of my go-kart, which began at the start of my junior year in high school, was a great step in the right direction for me. It was my first major project I undertook, and I gained a great deal of knowledge and experience from it. Here are some pictures of the project:
 
-![Version 1](https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version1.JPEG)
-![Version 3](https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version3.JPEG)
-![Version 4](https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version4front.JPEG)
-![Kart on stand](https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version4onstand.JPEG)
+<img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version1.JPEG" width=50% height=50%>
+<img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version3.JPEG" width=50% height=50%>
+<img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version4front.JPEG" width=50% height=50%>
+<img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/version4onstand.JPEG" width=50% height=50%>
