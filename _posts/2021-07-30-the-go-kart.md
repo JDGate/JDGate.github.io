@@ -1,7 +1,7 @@
 ---
 title: "The Go-kart"
 categories:
-  - Blog
+  - Bigger Project
 tags:
   - go-kart
   - wood-project
