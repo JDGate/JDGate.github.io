@@ -1,6 +1,6 @@
 # Jameson Gatewood's Portfolio Website
 
-Thank you to Minimal Mistakes for the foundation for this website.
+Thank you to Minimal Mistakes for the foundation of this website.
 
 Contains basic configuration to get you a site with:
 
