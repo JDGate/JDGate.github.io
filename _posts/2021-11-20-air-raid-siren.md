@@ -7,9 +7,6 @@ tags:
   - wood-project
 ---
 
-| <video src="">  | <img src="" width=50% height=50%> |
+| [![Watch the video]()](https://youtu.be/6DojHYXntNY) | <img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/AirRaidInProcess.JPEG" width=50% height=50%> |
 | :---: | :---: |
-| <img src="" width=50% height=50%>  | <img src="" width=50% height=50%>  |
-
-
-
+| <img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/AirRaidFront.JPEG" width=50% height=50%>  | <img src="https://github.com/JDGate/jdgate.github.io/blob/master/assets/images/AirRaidBack.JPEG" width=50% height=50%>  |
