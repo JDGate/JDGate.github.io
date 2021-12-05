@@ -12,5 +12,3 @@ The building of my go-kart, which began at the start of my junior year in high s
 | <img src="/assets/images/version1.JPEG">  | <img src="/assets/images/version3.JPEG"> |
 | :---: | :---: |
 | <img src="/assets/images/version4front.JPEG">  | <img src="/assets/images/version4onstand.JPEG">  |
-
-<img src="/assets/images/AirRaidInProcess.JPEG">
